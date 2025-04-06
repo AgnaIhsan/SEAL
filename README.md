@@ -1,2 +1,3 @@
-# SEAL
-Great Project
+cd frontend
+pnpm install
+pnpm dev
